@@ -1,0 +1,9 @@
+#include<iostream.H>
+void main()
+{
+clrscr();
+int a=20,b=5;
+cout<<"Subtraction";
+cout<<a-b;
+getch();
+}
